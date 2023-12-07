@@ -57,7 +57,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: aqua;
+    background: #22405c;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -78,7 +78,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: aqua;
+    color: #22405c;
 }
 
 
@@ -110,7 +110,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 60px;
     font-weight: 600;
-    color: aqua;
+    color: #22405c;
 }
 
 .about-col-2 p{
@@ -135,7 +135,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background-color: aqua;
+    background-color: #22405c;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -153,7 +153,7 @@ nav ul li a:hover::after{
 }
 
 .tab-content ul li span{
-    color: aqua;
+    color: #22405c;
     font-size: 25px;
 }
 
@@ -181,7 +181,7 @@ nav ul li a:hover::after{
 }
 
 .contact-left p i{
-    color: aqua;
+    color: #22405c;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -200,16 +200,16 @@ nav ul li a:hover::after{
 }
 
 .social-icons a:hover{
-    color: aqua;
+    color: #22405c;
     transform: translateY(-5px);
 }
 
 .btn{
     display:  inline-block;
-    background-color: aqua;
+    background-color: #22405c;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid aqua;
+    border: 1px solid #22405c;
     padding: 14px 50px;
     border-radius: 6px;
     color: black;
@@ -218,7 +218,7 @@ nav ul li a:hover::after{
 }
 
 .btn:hover{
-    background-color: aqua;
+    background-color: #22405c;
 }
 
 .contact-right form{
@@ -311,7 +311,7 @@ nav .fa-solid{
     }
     
     nav ul{
-        background: aqua;
+        background: #22405c;
         position: fixed;
         top: 0;
         right: -200px;
@@ -359,7 +359,7 @@ nav .fa-solid{
 }
 
 #msg{
-    color: aqua;
+    color: #22405c;
     margin-top: -40px;
     display: block;
 }
